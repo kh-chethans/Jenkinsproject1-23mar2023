@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Jenkins project1 successfull"
+echo "Jenkins build and pipeline project1 successfull"
 END
